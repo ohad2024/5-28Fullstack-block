@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    direction: rtl;
+    background-image: url('jerrypic.jpg');
+    background-size: cover;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+.content {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    margin: 50px;
+    border-radius: 10px;
+}
+
+img {
+    display: block; 
+    margin: 20px auto;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 3px solid white;
+}
+
+p {
+    text-align: center;
+    font-size: 18px;
+    color: aqua;
+    background-color: gray;
+}
+
+a {
+    display: block;
+    text-align: center;
+    margin: 20px;
+    color: #45a049;
+    font-weight: bold;
+}

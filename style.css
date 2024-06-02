@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    direction: rtl;
+    background-image: url('TomAndJerryPic.jpg'); 
+    background-size: cover;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+#main {
+    width: 40%;
+    margin: auto;
+    text-align: center;
+}
+
+.animal{
+    padding: 20xp;
+    margin: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    float: left;
+}
+
+img {
+    display: block; 
+    margin: 20px auto;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 3px solid white;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #45a049;
+    color: white;
+    border: none;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+a {
+    color: #45a049;
+    font-weight: bold;
+}
+
+p {
+    background-color: gray;
+    padding: 10px;
+    border-radius: 5px;
+}

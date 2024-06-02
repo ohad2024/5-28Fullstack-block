@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+
+#ohad{
+    color: red;
+    border: 1px solid black;
+    width: 70vw;
+    background-color: aqua;
+    padding: 13px;
+    margin:0 auto;
+    overflow: auto;
+}
+
+#ohad .mydiv {
+    color: purple;
+    border: 1px solid black;
+    width: 50%;
+    height: 50%;
+    background-color: palevioletred;
+    padding: 13px;
+    margin:0 auto;
+    float: left;
+}
+
